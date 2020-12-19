@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author marquis
+ * curiosity killed the cat
  */
 public class bruteForce {
     
